@@ -2,7 +2,7 @@
 <h3 align="center">Hi! My name is Nelson and I am an independent and self-motivated individual with proven ability and experience in Machine Learning and Data Science projects. So far I have worked on numerous projects and dataset building different machine learning in the domain of supervised learning, unsupervised learning, Time Series Forecasting. I have also picked up several handy skills like SQL and so on that enhances my skill in the field of data science.</h3>
 
 
-<img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
+<img align="right" alt="coding" width="400" src="https://blog.imarticus.org/wp-content/uploads/2021/12/bwgg.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nelsonss&label=Profile%20views&color=0e75b6&style=flat" alt="nelsonss" /> </p>
 
@@ -19,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/nelsonsanchezsanchez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Nelson Sánchez S." height="30" width="40" /></a>
-<a href="https://www.kaggle.com/nelsonss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="pooja sureka" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/nelsonss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Nelson Sánchez S." height="30" width="40" /></a>
 <a href="https://www.instagram.com/nelsonss/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Nelson Sánchez S." height="30" width="40" /></a>
 </p>
 
