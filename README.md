@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/nelsonss?tab=repositories](https://github.com/nelsonss?tab=repositories)
 
-- 📫 How to reach me **nelson.sanchezs@gmail.com**
+- 📫 How to reach me **nelson.sanchez@uniandes.edu.co**
 
 - ⚡ Fun fact **I love sharing knowledge and teaching others😎**
 
