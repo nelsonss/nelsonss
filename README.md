@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **nelson.sanchez@utadeo.edu.co**
 
-- ⚡ Fun fact **I love sharing knowledge and teaching others😎**
+- ⚡ Fun fact **I love sharing knowledge and teaching others using Github Teacher's Resources😎**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
